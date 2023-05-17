@@ -149,9 +149,14 @@ button:active{
 aside{
     display: flex;
     align-items: center;
+    justify-content: space-around;
     margin: 0 30px;
     min-width: 700px;
     max-width: 1500px;
+}
+
+.asideright{
+    width: 50%;
 }
 
 footer{
